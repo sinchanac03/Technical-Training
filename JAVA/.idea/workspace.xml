@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35b9a736-cde2-49c5-a028-4f38fe46de04" name="Changes" comment="Added all Java programs (DSA, DP, Collections)" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;sinchanac03&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/sinchanac03/Technical-Training.git&quot;,
+    &quot;accountId&quot;: &quot;25cfa130-85ac-44e0-be33-f7cd33070435&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ExceptionHandling/ScannerClassExample.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3AC1VkqOuUsAyAnEDQ1hDgWj3XL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BFS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinaryTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Brute.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BufferedReaderExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BuilderBufferPerformance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Butterfly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comments.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoGC.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Diamond.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DifferenceArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Driver1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.E5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMaximum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeightOfTree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegertoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JoinWithMultipleThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashSetDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedListDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MajorityElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZeroesToRight.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optimized.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PartitionEvenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SLL.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScanenrClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ScannerClassExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StaticBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBufferExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringBuilderExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringImmutable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringInternFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringOperationsDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringToInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentGrading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowBankExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowableDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TreeMapDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoDArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Sinchana c/IdeaProjects/JAVA/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sinchana c\IdeaProjects\JAVA\src\Basics" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b9a736-cde2-49c5-a028-4f38fe46de04" name="Changes" comment="" />
+      <created>1772081764833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772081764833</updated>
+      <workItem from="1772081767053" duration="17000" />
+      <workItem from="1772081822644" duration="18000" />
+      <workItem from="1772081899354" duration="242000" />
+      <workItem from="1772082158293" duration="35000" />
+      <workItem from="1772082233637" duration="5800000" />
+      <workItem from="1772090806263" duration="162000" />
+      <workItem from="1772090976466" duration="7789000" />
+      <workItem from="1772115155056" duration="2633000" />
+      <workItem from="1772163521862" duration="21530000" />
+      <workItem from="1772250285014" duration="16716000" />
+      <workItem from="1772275951059" duration="1367000" />
+      <workItem from="1772631282323" duration="3449000" />
+      <workItem from="1772635790276" duration="1221000" />
+      <workItem from="1772645103605" duration="1916000" />
+      <workItem from="1772682394670" duration="935000" />
+      <workItem from="1772684804417" duration="16655000" />
+      <workItem from="1772768414495" duration="19213000" />
+      <workItem from="1772854994513" duration="13086000" />
+      <workItem from="1773286484764" duration="10119000" />
+      <workItem from="1773308558920" duration="1556000" />
+      <workItem from="1773322044300" duration="13340000" />
+      <workItem from="1773459514309" duration="11266000" />
+      <workItem from="1773480024066" duration="958000" />
+      <workItem from="1773481041585" duration="4055000" />
+      <workItem from="1773659457503" duration="11079000" />
+      <workItem from="1774003354256" duration="630000" />
+      <workItem from="1774435268720" duration="775000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added all Java programs (DSA, DP, Collections)">
+      <option name="closed" value="true" />
+      <created>1776336441672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1776336441672</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added all Java programs (DSA, DP, Collections)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all Java programs (DSA, DP, Collections)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataStructures/Trees/BinarySearchTree/BST.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
