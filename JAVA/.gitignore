@@ -1,4 +1,5 @@
 ### IntelliJ IDEA ###
+.idea/
 out/
 ../ASSIGNMENT-1/.idea/
 !**/src/main/**/out/
