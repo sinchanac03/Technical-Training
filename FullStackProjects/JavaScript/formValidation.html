@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Form</title>
+    </head>
+    <body>
+        <form onsubmit="return validate()">
+            <label>Name</label>
+            <input type="text" id="name"><br><br>
+            <label>Password</label>
+            <input type="password" id="pwd"><br><br>
+            <label>Email</label>
+            <input type="email" id="email"><br><br>
+            <input type="submit">
+        </form>
+        <script>
+            function validate(){
+                let name = document.getElementById("name").value;
+                let email = document.getElementById("email").value;
+                let pass = document.getElementById("pwd").value;
+
+                let pattern = /^(?=.*[A-Z])(?=.*[a-z])(?=.*[@#$%&!?])(?=.*\d).{8,}$/
+
+                if(name == "" || email == "" || pass == ""){
+                    alert("All Fields Requiered");
+                    return false;
+                }
+
+                if(!pattern.test(pass)){
+                    alert("Password must have Uppercase, Lowercase, 1 Special Char, a digit and should be of 8 length!!")
+                    return false;
+                }
+
+                alert("Form Submitted Successfully!");
+                return true;
+            }
+        </script>
+    </body>
+</html>

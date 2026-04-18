@@ -1,0 +1,83 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: rgb(243, 241, 241);
+}
+
+header{
+    background-color: rgb(151, 151, 203);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav{
+    background-color: rgb(136, 136, 156);
+    padding: 10px;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover{
+    color: gold;
+}
+
+section{
+    padding: 20px;
+}
+
+.form-box{
+    background: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px grey;
+}
+
+.sub-elements{
+    display: flex;
+    gap: 10px;
+}
+
+button{
+    background: rgb(56, 149, 56);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: rgb(11, 135, 11);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+
+th{
+    background: rgb(133, 127, 127);
+    color: white;
+}
+
+td, th{
+    padding: 10px;
+    text-align: center;
+}

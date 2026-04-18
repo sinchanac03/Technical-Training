@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    background-color: rgb(213, 201, 201)
+}
+header{
+    background-color: rgb(145, 123, 167);
+    color: white;
+    text-align: center;
+    padding:20px
+}
+nav{
+    background-color: rgb(143, 143, 194);
+    padding:10px;
+    text-align: center;
+}
+nav a{
+    color: white;
+    margin:10px;
+    text-decoration: none;
+    font-weight:bold ;
+}
+nav a:hover{
+    color: gold;
+}
+section{
+    padding: 20px;
+}
+.form-box{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 10px;
+    box-shadow : 0 0 10px grey;
+}
+.sub-elements{
+    display: flex;
+    gap: 10px;
+}
+button{
+    background: rgb(55, 169, 55);
+    color:white;
+    padding:10px;
+    border:none;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+button:hover{
+    background-color: rgb(27, 82, 27);
+
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+table ,td ,th{
+    border: 1px solid black;
+
+}
+th{
+    background-color: darkgray;
+    color: white;
+}
+td, th{
+    padding: 10px;
+    text-align: center;
+}

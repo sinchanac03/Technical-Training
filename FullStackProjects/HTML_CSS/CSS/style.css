@@ -1,0 +1,21 @@
+h1{
+    color: purple;
+}
+
+nav{
+    background-color: black;
+    text-align: center;
+}
+
+nav a{
+    color: white;
+    
+}
+
+.container{
+    background-color: aqua;
+}
+
+.container div1 {
+    background-color: brown;
+}
